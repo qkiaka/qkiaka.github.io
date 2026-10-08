@@ -1,0 +1,6 @@
+{
+  "name": "Sylvan Focus",
+  "description": "Organic minimalist study and deep focus timer inspired by Japandi serenity and Nordic woodworking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
